@@ -1,11 +1,23 @@
-.navbar {
-	background-color: white;	
+body {
+	height:1500px; 
+	background-color:#80aaff; 
+	padding-top: 70px;
 }
+
+.navbar-collapse {
+  text-align:center;
+  }
+.navbar-nav {
+    display:inline-block;
+    float:none;
+  }
 /* .navbar-nav.navbar-center {
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
 } */
 .container-fluid {
-	background-color:  #ccd9ff;
+
+}
+.navbar-default .navbar-toggle .icon-bar {
 }

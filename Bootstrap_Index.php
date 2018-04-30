@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Doctor</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -9,10 +9,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="bs_styles.css">
 </head>
-<body style="height:1500px; background-color:#80aaff;">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<nav class="navbar navbar-fixed-top" style="background-color: #ccd9ff">
+<body>
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -23,7 +21,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-center">
-        <li><a class="active" href="#">Home</a></li>
+        <li><a class="active" href="Bootstrap_Index.html">Home</a></li>
 		<li><a href="staff.html">Staff</a></li>
 		<li><a href="contact.html">Contact Us</a></li>
 		<li><a href="tour.html">Office Tour</a></li>
