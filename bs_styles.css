@@ -24,3 +24,7 @@ body {
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
+
+#aboutContainer {
+  width: 100px;
+}
