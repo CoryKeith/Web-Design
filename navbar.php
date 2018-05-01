@@ -13,7 +13,14 @@
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
-      </li>    
+      </li> 
+      <li class="nav-item"><a class="active" href="Bootstrap_Index.php">Home</a></li>
+		  <li class="nav-item"><a href="staff.php">Staff</a></li>
+		  <li class="nav-item"><a href="contact.php">Contact Us</a></li>
+		  <li class="nav-item"><a href="tour.php">Office Tour</a></li>
+		  <li class="nav-item"><a href="about.php">About</a></li>
+	  	<li class="nav-item"><a href="services.php">Services</a></li>
+		  <li class="nav-item"><a href="resources.php">Patient Resources</a></li>   
     </ul>
   </div>  
 </nav>

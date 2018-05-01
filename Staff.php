@@ -3,7 +3,7 @@
 <head>
   <title>Doctor</title>
   <?php include 'head.php' ?>
-  <!-- <link rel="stylesheet" href="bs_styles.css"> -->
+  <link rel="stylesheet" href="bs_styles.css">
 </head>
 <body>
 <?php include 'navbar.php' ?>
