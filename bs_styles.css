@@ -1,15 +1,16 @@
 body {
 	height:1500px; 
 	background-color:#80aaff; 
-	padding-top: 70px;
+
 }
 
-.navbar-collapse {
+.navbar .navbar-collapse {
   text-align:center;
   }
-.navbar-nav {
-    display:inline-block;
-    float:none;
+.mx-auto {
+  } 
+  .nav-item {
+    padding: 0px 10px;
   }
 /* .navbar-nav.navbar-center {
     position: absolute;
@@ -23,8 +24,4 @@ body {
 }
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-#aboutContainer {
-  width: 100px;
 }
