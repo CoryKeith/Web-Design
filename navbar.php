@@ -7,7 +7,7 @@
     <ul class="navbar-nav mx-auto"> 
       <li class="nav-item"><a class="nav-link" href="Bootstrap_Index.php">Home</a></li>
 		  <li class="nav-item"><a class="nav-link" href="staff.php">Staff</a></li>
-		  <li class="nav-item"><a class="nav-link" href="contact.php">Contact Us</a></li>
+		  <li class="nav-item"><a class="nav-link" href="contact_us.php">Contact Us</a></li>
 		  <li class="nav-item"><a class="nav-link" href="tour.php">Office Tour</a></li>
 		  <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 	  	<li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>

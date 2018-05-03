@@ -1,24 +1,30 @@
 body {
-	height:1500px; 
+	/*height:1500px; */
 	background-color:#80aaff; 
 
 }
-
-.navbar .navbar-collapse {
-  text-align:center;
+.album {
+  background-color: black;
+}
+.navbar {
   }
 .mx-auto {
   } 
 .nav-item {
   padding: 0px 10px;
   }
+.navbar-nav li a {
+  color: black !important;
+  border-bottom: 1px solid black;
+  }
 /* .navbar-nav.navbar-center {
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
 } */
-.container-fluid {
-
+.container {
+  width: 1000px !important;
+  background-color: white !important;
 }
 .navbar-default .navbar-toggle .icon-bar {
 }

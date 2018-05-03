@@ -31,3 +31,39 @@
 
 </body>
 </html>
+
+Appointment Request
+
+Please contact us by phone if this is an emergency, or if you are trying to cancel or change an existing appointment. 
+(864) 834-2774.
+
+
+First name:
+
+Last name: 
+Address:
+
+City:
+
+State / Province:
+
+Zip / Postal Code: 
+Phone:
+
+E-mail:
+
+Preferred Dates: 
+Preferred Times: 
+Please describe your symptoms:
+
+Contact Us
+Feel free to call or email our office with any questions. To request an appointment please fill out the form to the right. 
+We will contact you within 1 business day to confirm your appointment time.
+
+Benson Family Dentistry
+100 Spillman Court
+Travelers Rest, SC 29690
+Ph: (864) 834-2774
+» bensonfamilydentistry@yahoo.com
+If you are a current patient of our office and are experiencing an after-hours dental emergency, please call our main line at (864) 834-2774. 
+We will get back to you as soon as possible.
